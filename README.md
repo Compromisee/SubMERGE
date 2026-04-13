@@ -5,27 +5,6 @@
 A sleek, minimalist desktop application for fetching and embedding subtitles into MKV files. Built with Rust and egui.
 
 ---
-  ╔═══════════════════════════════════════╗
-  ║  S u b M e r g e                      ║
-  ║  ─────────────────────────────────     ║
-  ║  [ DRY RUN ║ REAL ]                   ║
-  ║                                        ║
-  ║  ┌─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┐   ║
-  ║  │     Drop MKV file here         │   ║
-  ║  └─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─┘   ║
-  ║                                        ║
-  ║  [S01] [E02]    Detected from file     ║
-  ║                                        ║
-  ║  Show Name: [Breaking Bad      ]       ║
-  ║  Language:  [EN] [ES] [FR] [DE]        ║
-  ║                                        ║
-  ║  [ Search ]  [ Merge ]                 ║
-  ║                                        ║
-  ║  > Log output here...                  ║
-  ╚═══════════════════════════════════════╝
-
-
----
 
 ## Features
 

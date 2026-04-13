@@ -4,6 +4,7 @@
 
 A sleek, minimalist desktop application for fetching and embedding subtitles into MKV files. Built with Rust and egui.
 
+#READ CODE.MD for all files
 ---
 
 ## Features

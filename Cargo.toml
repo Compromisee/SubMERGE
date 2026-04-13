@@ -1,0 +1,22 @@
+[package]
+name = "submerge"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29"
+egui = "0.29"
+egui_extras = "0.29"
+reqwest = { version = "0.12", features = ["json", "blocking"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+regex = "1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros"] }
+rfd = "0.15"
+dirs = "5.0"
+flate2 = "1.0"
+zip = "2.0"
+
+[profile.release]
+opt-level = 3
+lto = true
